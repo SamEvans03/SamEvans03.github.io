@@ -11,7 +11,12 @@
     cursor: pointer;
 }
 
-img {
- height: 400px;
- width: 400px;
+.image {
+ height: 25%;
+ width: 25%;
+}
+
+.profile {
+  height: 25%;
+  width: 25%;
 }
