@@ -2,6 +2,25 @@
   border: 1px solid red;
 }
 
+body {
+  color: #36454F;
+}
+
+p {
+  color: #F2EBE3;
+}
+
+h1 {
+  color: #F2EBE3;
+}
+
+h3 {
+  color: #F2EBE3;
+}
+
+
+
+
 #button {
     color: royalblue;
 }
