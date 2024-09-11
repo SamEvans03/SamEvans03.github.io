@@ -3,23 +3,12 @@
 }
 
 body {
-  background-color: charcoal;
+  background: charcoal;
+  font-family: Garamond
 }
 
-p {
-  color: bone;
-}
-
-h1 {
-  color: bone;
-}
-
-h2 {
-  color: bone;
-}
-
-h3 {
-  color: bone;
+p, h1, h2, h3 {
+  color: #F2EBE3;
 }
 
 
