@@ -12,7 +12,13 @@ p, h1, h2, h3 {
 }
 
 
+#header {
+  width: 70%;
+}
 
+#contact {
+  width: 30%;
+}
 
 
 #button {
@@ -33,3 +39,5 @@ p, h1, h2, h3 {
   height: 25%;
   width: 25%;
 }
+
+
